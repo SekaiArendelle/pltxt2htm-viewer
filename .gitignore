@@ -26,3 +26,12 @@ gitignore
 # System Files
 .DS_Store
 Thumbs.db
+
+# Compressed files
+*.zip
+*.tar
+*.rar
+*.gz
+*.xz
+*.7z
+*.zstd
